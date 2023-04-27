@@ -5,7 +5,7 @@ Purpose: To understand the tourism trends in Telangana, including which district
 
 Before creating this Power BI dashboard, I performed several operational steps to well prepare the data for analysis.Steps include:
 
-* Data Collection: Clooected data from ongoing challenge on codebasics website and then loaded and combined all files in Power BI
+* Data Collection: Collected data from ongoing challenge on codebasics website and then loaded and combined all files in Power BI
 * Data Cleaning: Cleaned data to ensure consistency and accuracy. This involved correcting errors, and dealing with missing or null values.
 * Data Transformation: Transformed the data to make it more suitable for analysis in Power BI. This involved merging multiple data sources, created conditional and custom columns and measures, and aggregating data.
 * Data Visualization: Finally, created dashboard in Power BI . T
